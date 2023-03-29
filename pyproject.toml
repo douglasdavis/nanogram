@@ -14,7 +14,7 @@ build-backend = "scikit_build_core.build"
 
 [project]
 name = "nanogram"
-version = "0.1"
+version = "0.0.1dev0"
 readme = "README.md"
 description = "Lightweight and fast histogramming in Python"
 authors = [
